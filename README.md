@@ -15,6 +15,7 @@ Every day, a new entry is added under [`logs/`](logs/) in the format `YYYY-MM-DD
 | Date | Topic |
 |------|-------|
 | 2026-09-29 | [MCP — the USB-C port for AI tools](logs/2026-09-29.md) |
+| 2026-09-30 | [Supply-Chain Attacks — when the locksmith is compromised](logs/2026-09-30.md) |
 
 ## 🤝 Contributing
 
