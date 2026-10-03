@@ -1,1 +1,29 @@
-IyDwn5OdIERhaWx5IExvZwoKQml0ZS1zaXplZCB0ZWNoIHVwZGF0ZXMsIGV2ZXJ5IHNpbmdsZSBkYXkg4oCUIGNvbmNlcHRzIGV4cGxhaW5lZCBzaW1wbHksIHRvb2xzIHdvcnRoIGtub3dpbmcsIGFuZCBpZGVhcyB0byBleHBsb3JlLiBCdWlsdCBmb3IgdGhlIEdpdEh1YiBjb21tdW5pdHkuCgojIyDwn5eC77iPIEhvdyBpdCB3b3JrcwoKRXZlcnkgZGF5LCBhIG5ldyBlbnRyeSBpcyBhZGRlZCB1bmRlciBbYGxvZ3MvYF0obG9ncy8pIGluIHRoZSBmb3JtYXQgYFlZWVktTU0tREQubWRgLiBFYWNoIGVudHJ5IGNvdmVyczoKCi0g8J+SoSAqKkNvbmNlcHQgb2YgdGhlIGRheSoqIOKAlCBvbmUgdGVjaCBjb25jZXB0LCBleHBsYWluZWQgY2xlYXJseQotIPCfm6DvuI8gKipUb29sIG9mIHRoZSBkYXkqKiDigJQgYSB0b29sLCBsaWJyYXJ5LCBvciB3b3JrZmxvdyB3b3J0aCB0cnlpbmcKLSDwn5OaICoqR28gZGVlcGVyKiog4oCUIGxpbmtzIHRvIGxlYXJuIG1vcmUKCiMjIPCfk5YgSW5kZXgKCnwgRGF0ZSB8IFRvcGljIHwKfC0tLS0tLXwtLS0tLS0tfAp8IDIwMjYtMDktMjkgfCBbTUNQIOKAlCB0aGUgVVNCLUMgcG9ydCBmb3IgQUkgdG9vbHNdKGxvZ3MvMjAyNi0wOS0yOS5tZCkgfAp8IDIwMjYtMDktMzAgfCBbU3VwcGx5LUNoYWluIEF0dGFja3Mg4oCUIHdoZW4gdGhlIGxvY2tzbWl0aCBpcyBjb21wcm9taXNlZF0obG9ncy8yMDI2LTA5LTMwLm1kKSB8CnwgMjAyNi0xMC0wMSB8IFtXZWJBc3NlbWJseTogbmVhci1uYXRpdmUgc3BlZWQgZm9yIHRoZSB3ZWIgYW5kIGJleW9uZF0obG9ncy8yMDI2LTEwLTAxLm1kKSB8CnwgMjAyNi0xMC0wMiB8IFtCbG9vbSBGaWx0ZXJzIOKAlCB0aGUgInByb2JhYmx5IHllcyIgZGF0YSBzdHJ1Y3R1cmVdKGxvZ3MvMjAyNi0xMC0wMi5tZCkgfAoKIyMg8J+knSBDb250cmlidXRpbmcKCkZvdW5kIGEgbWlzdGFrZSBvciB3YW50IHRvIHN1Z2dlc3QgYSB0b3BpYz8gT3BlbiBhbiBpc3N1ZSBvciBhIHB1bGwgcmVxdWVzdCDigJQgYWxsIHdlbGNvbWUuCgotLS0KCuKtkCBTdGFyIHRoaXMgcmVwbyBpZiB5b3UgbGVhcm4gc29tZXRoaW5nIG5ldyBoZXJlIQo=
+# 📝 Daily Log
+
+Bite-sized tech updates, every single day — concepts explained simply, tools worth knowing, and ideas to explore. Built for the GitHub community.
+
+## 🗂️ How it works
+
+Every day, a new entry is added under [`logs/`](logs/) in the format `YYYY-MM-DD.md`. Each entry covers:
+
+- 💡 **Concept of the day** — one tech concept, explained clearly
+- 🛠️ **Tool of the day** — a tool, library, or workflow worth trying
+- 📚 **Go deeper** — links to learn more
+
+## 📖 Index
+
+| Date | Topic |
+|------|-------|
+| 2026-09-29 | [MCP — the USB-C port for AI tools](logs/2026-09-29.md) |
+| 2026-09-30 | [Supply-Chain Attacks — when the locksmith is compromised](logs/2026-09-30.md) |
+| 2026-10-01 | [WebAssembly: near-native speed for the web and beyond](logs/2026-10-01.md) |
+| 2026-10-02 | [Bloom Filters — the "probably yes" data structure](logs/2026-10-02.md) |
+| 2026-10-03 | [CRDTs — the data structure that merges itself](logs/2026-10-03.md) |
+
+## 🤝 Contributing
+
+Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
+
+---
+
+⭐ Star this repo if you learn something new here!
