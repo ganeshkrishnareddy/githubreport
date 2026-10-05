@@ -20,6 +20,7 @@ Every day, a new entry is added under [`logs/`](logs/) in the format `YYYY-MM-DD
 | 2026-10-02 | [Bloom Filters — the "probably yes" data structure](logs/2026-10-02.md) |
 | 2026-10-03 | [CRDTs — the data structure that merges itself](logs/2026-10-03.md) |
 | 2026-10-04 | [Circuit Breakers — the fuse box for your services](logs/2026-10-04.md) |
+| 2026-10-05 | [The Event Loop — one thread, many jobs](logs/2026-10-05.md) |
 
 ## 🤝 Contributing
 
