@@ -21,6 +21,7 @@ Every day, a new entry is added under [`logs/`](logs/) in the format `YYYY-MM-DD
 | 2026-10-03 | [CRDTs — the data structure that merges itself](logs/2026-10-03.md) |
 | 2026-10-04 | [Circuit Breakers — the fuse box for your services](logs/2026-10-04.md) |
 | 2026-10-05 | [The Event Loop — one thread, many jobs](logs/2026-10-05.md) |
+| 2026-10-06 | [Prompt Injection — smuggling instructions into AI apps](logs/2026-10-06.md) |
 
 ## 🤝 Contributing
 
@@ -29,3 +30,4 @@ Found a mistake or want to suggest a topic? Open an issue or a pull request — 
 ---
 
 ⭐ Star this repo if you learn something new here!
+
