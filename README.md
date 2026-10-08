@@ -23,6 +23,7 @@ Every day, a new entry is added under [`logs/`](logs/) in the format `YYYY-MM-DD
 | 2026-10-05 | [The Event Loop — one thread, many jobs](logs/2026-10-05.md) |
 | 2026-10-06 | [Prompt Injection — smuggling instructions into AI apps](logs/2026-10-06.md) |
 | 2026-10-07 | [Idempotency Keys — making retries safe](logs/2026-10-07.md) |
+| 2026-10-08 | [Multi-Stage Docker Builds — ship slim images](logs/2026-10-08.md) |
 
 ## 🤝 Contributing
 
