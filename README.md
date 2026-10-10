@@ -25,6 +25,7 @@ Every day, a new entry is added under [`logs/`](logs/) in the format `YYYY-MM-DD
 | 2026-10-07 | [Idempotency Keys — making retries safe](logs/2026-10-07.md) |
 | 2026-10-08 | [Multi-Stage Docker Builds — ship slim images](logs/2026-10-08.md) |
 | 2026-10-09 | [Dependency Confusion — the supply-chain trap](logs/2026-10-09.md) |
+| 2026-10-10 | [RAG — answering from documents the model never trained on](logs/2026-10-10.md) |
 
 ## 🤝 Contributing
 
