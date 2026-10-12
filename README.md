@@ -1,1 +1,38 @@
-IyDwn5OdIERhaWx5IExvZwoKQml0ZS1zaXplZCB0ZWNoIHVwZGF0ZXMsIGV2ZXJ5IHNpbmdsZSBkYXkg4oCUIGNvbmNlcHRzIGV4cGxhaW5lZCBzaW1wbHksIHRvb2xzIHdvcnRoIGtub3dpbmcsIGFuZCBpZGVhcyB0byBleHBsb3JlLiBCdWlsdCBmb3IgdGhlIEdpdEh1YiBjb21tdW5pdHkuCgojIyDwn5eC77iPIEhvdyBpdCB3b3JrcwoKRXZlcnkgZGF5LCBhIG5ldyBlbnRyeSBpcyBhZGRlZCB1bmRlciBgbG9ncy9gIGluIHRoZSBmb3JtYXQgYFlZWVktTU0tREQubWRgLiBFYWNoIGVudHJ5IGNvdmVyczoKCi0g8J+SoSAqKkNvbmNlcHQgb2YgdGhlIGRheSoqIOKAlCBvbmUgdGVjaCBjb25jZXB0LCBleHBsYWluZWQgY2xlYXJseQotIPCfm6DvuI8gKipUb29sIG9mIHRoZSBkYXkqKiDigJQgYSB0b29sLCBsaWJyYXJ5LCBvciB3b3JrZmxvdyB3b3J0aCB0cnlpbmcKLSDwn5OaICoqR28gZGVlcGVyKiog4oCUIGxpbmtzIHRvIGxlYXJuIG1vcmUKCiMjIPCfk5YgSW5kZXgKCnwgRGF0ZSB8IFRvcGljIHwKfC0tLS0tLXwtLS0tLS0tfAp8IDIwMjYtMDktMjkgfCBbTUNQIOKAlCB0aGUgVVNCLUMgcG9ydCBmb3IgQUkgdG9vbHNdKGxvZ3MvMjAyNi0wOS0yOS5tZCkgfAp8IDIwMjYtMDktMzAgfCBbU3VwcGx5LUNoYWluIEF0dGFja3Mg4oCUIHdoZW4gdGhlIGxvY2tzbWl0aCBpcyBjb21wcm9taXNlZF0obG9ncy8yMDI2LTA5LTMwLm1kKSB8CnwgMjAyNi0xMC0wMSB8IFtXZWJBc3NlbWJseTogbmVhci1uYXRpdmUgc3BlZWQgZm9yIHRoZSB3ZWIgYW5kIGJleW9uZF0obG9ncy8yMDI2LTEwLTAxLm1kKSB8CnwgMjAyNi0xMC0wMiB8IFtCbG9vbSBGaWx0ZXJzIOKAlCB0aGUgInByb2JhYmx5IHllcyIgZGF0YSBzdHJ1Y3R1cmVdKGxvZ3MvMjAyNi0xMC0wMi5tZCkgfAp8IDIwMjYtMTAtMDMgfCBbQ1JEVHMg4oCUIHRoZSBkYXRhIHN0cnVjdHVyZSB0aGF0IG1lcmdlcyBpdHNlbGZdKGxvZ3MvMjAyNi0xMC0wMy5tZCkgfAp8IDIwMjYtMTAtMDQgfCBbQ2lyY3VpdCBCcmVha2VycyDigJQgdGhlIGZ1c2UgYm94IGZvciB5b3VyIHNlcnZpY2VzXShsb2dzLzIwMjYtMTAtMDQubWQpIHwKfCAyMDI2LTEwLTA1IHwgW1RoZSBFdmVudCBMb29wIOKAlCBvbmUgdGhyZWFkLCBtYW55IGpvYnNdKGxvZ3MvMjAyNi0xMC0wNS5tZCkgfAp8IDIwMjYtMTAtMDYgfCBbUHJvbXB0IEluamVjdGlvbiDigJQgc211Z2dsaW5nIGluc3RydWN0aW9ucyBpbnRvIEFJIGFwcHNdKGxvZ3MvMjAyNi0xMC0wNi5tZCkgfAp8IDIwMjYtMTAtMDcgfCBbSWRlbXBvdGVuY3kgS2V5cyDigJQgbWFraW5nIHJldHJpZXMgc2FmZV0obG9ncy8yMDI2LTEwLTA3Lm1kKSB8CnwgMjAyNi0xMC0wOCB8IFtNdWx0aS1TdGFnZSBEb2NrZXIgQnVpbGRzIOKAlCBzaGlwIHNsaW0gaW1hZ2VzXShsb2dzLzIwMjYtMTAtMDgubWQpIHwKfCAyMDI2LTEwLTA5IHwgW0RlcGVuZGVuY3kgQ29uZnVzaW9uIOKAlCB0aGUgc3VwcGx5LWNoYWluIHRyYXBdKGxvZ3MvMjAyNi0xMC0wOS5tZCkgfAp8IDIwMjYtMTAtMTAgfCBbUkFHIOKAlCBhbnN3ZXJpbmcgZnJvbSBkb2N1bWVudHMgdGhlIG1vZGVsIG5ldmVyIHRyYWluZWQgb25dKGxvZ3MvMjAyNi0xMC0xMC5tZCkgfAp8IDIwMjYtMTAtMTEgfCBbUmF0ZSBMaW1pdGluZyDigJQgVG9rZW4gQnVja2V0IHZzIExlYWt5IEJ1Y2tldF0obG9ncy8yMDI2LTEwLTExLm1kKSB8CgojIyDwn6SdIENvbnRyaWJ1dGluZwoKRm91bmQgYSBtaXN0YWtlIG9yIHdhbnQgdG8gc3VnZ2VzdCBhIHRvcGljPyBPcGVuIGFuIGlzc3VlIG9yIGEgcHVsbCByZXF1ZXN0IOKAlCBhbGwgd2VsY29tZS4KCi0tLQoK4q2QIFN0YXIgdGhpcyByZXBvIGlmIHlvdSBsZWFybiBzb21ldGhpbmcgbmV3IGhlcmUhCg==
+# 📝 Daily Log
+
+Bite-sized tech updates, every single day — concepts explained simply, tools worth knowing, and ideas to explore. Built for the GitHub community.
+
+## 🗂️ How it works
+
+Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Each entry covers:
+
+- 💡 **Concept of the day** — one tech concept, explained clearly
+- 🛠️ **Tool of the day** — a tool, library, or workflow worth trying
+- 📚 **Go deeper** — links to learn more
+
+## 📖 Index
+
+| Date | Topic |
+|------|-------|
+| 2026-09-29 | [MCP — the USB-C port for AI tools](logs/2026-09-29.md) |
+| 2026-09-30 | [Supply-Chain Attacks — when the locksmith is compromised](logs/2026-09-30.md) |
+| 2026-10-01 | [WebAssembly: near-native speed for the web and beyond](logs/2026-10-01.md) |
+| 2026-10-02 | [Bloom Filters — the "probably yes" data structure](logs/2026-10-02.md) |
+| 2026-10-03 | [CRDTs — the data structure that merges itself](logs/2026-10-03.md) |
+| 2026-10-04 | [Circuit Breakers — the fuse box for your services](logs/2026-10-04.md) |
+| 2026-10-05 | [The Event Loop — one thread, many jobs](logs/2026-10-05.md) |
+| 2026-10-06 | [Prompt Injection — smuggling instructions into AI apps](logs/2026-10-06.md) |
+| 2026-10-07 | [Idempotency Keys — making retries safe](logs/2026-10-07.md) |
+| 2026-10-08 | [Multi-Stage Docker Builds — ship slim images](logs/2026-10-08.md) |
+| 2026-10-09 | [Dependency Confusion — the supply-chain trap](logs/2026-10-09.md) |
+| 2026-10-10 | [RAG — answering from documents the model never trained on](logs/2026-10-10.md) |
+| 2026-10-11 | [Rate Limiting — Token Bucket vs Leaky Bucket](logs/2026-10-11.md) |
+| 2026-10-12 | [Zero-Trust Security — never trust, always verify](logs/2026-10-12.md) |
+
+## 🤝 Contributing
+
+Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
+
+---
+
+⭐ Star this repo if you learn something new here!
