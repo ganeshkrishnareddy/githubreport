@@ -28,6 +28,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-10-10 | [RAG — answering from documents the model never trained on](logs/2026-10-10.md) |
 | 2026-10-11 | [Rate Limiting — Token Bucket vs Leaky Bucket](logs/2026-10-11.md) |
 | 2026-10-12 | [Zero-Trust Security — never trust, always verify](logs/2026-10-12.md) |
+| 2026-10-13 | [Webhooks — APIs in reverse](logs/2026-10-13.md) |
 
 ## 🤝 Contributing
 
