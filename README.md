@@ -29,6 +29,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-10-11 | [Rate Limiting — Token Bucket vs Leaky Bucket](logs/2026-10-11.md) |
 | 2026-10-12 | [Zero-Trust Security — never trust, always verify](logs/2026-10-12.md) |
 | 2026-10-13 | [Webhooks — APIs in reverse](logs/2026-10-13.md) |
+| 2026-10-14 | [Conventional Commits — a grammar for your git history](logs/2026-10-14.md) |
 
 ## 🤝 Contributing
 
