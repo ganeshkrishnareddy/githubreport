@@ -30,6 +30,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-10-12 | [Zero-Trust Security — never trust, always verify](logs/2026-10-12.md) |
 | 2026-10-13 | [Webhooks — APIs in reverse](logs/2026-10-13.md) |
 | 2026-10-14 | [Conventional Commits — a grammar for your git history](logs/2026-10-14.md) |
+| 2026-10-15 | [GitOps — let Git do the deploying](logs/2026-10-15.md) |
 
 ## 🤝 Contributing
 
