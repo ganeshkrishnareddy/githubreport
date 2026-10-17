@@ -32,6 +32,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-10-14 | [Conventional Commits — a grammar for your git history](logs/2026-10-14.md) |
 | 2026-10-15 | [GitOps — let Git do the deploying](logs/2026-10-15.md) |
 | 2026-10-16 | [Bloom Filters — the data structure that says "probably"](logs/2026-10-16.md) |
+| 2026-10-17 | [Consistent Hashing — sharding without the shuffle](logs/2026-10-17.md) |
 
 ## 🤝 Contributing
 
