@@ -35,6 +35,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-10-17 | [Consistent Hashing — sharding without the shuffle](logs/2026-10-17.md) |
 | 2026-10-18 | [Backpressure — when consumers push back](logs/2026-10-18.md) |
 | 2026-10-19 | [LSM Trees — Why Write-Heavy Databases Are So Fast](logs/2026-10-19.md) |
+| 2026-10-20 | [CORS — Why Your Browser Blocks Your Own API Call](logs/2026-10-20.md) |
 
 ## 🤝 Contributing
 
