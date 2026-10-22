@@ -37,6 +37,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-10-19 | [LSM Trees — Why Write-Heavy Databases Are So Fast](logs/2026-10-19.md) |
 | 2026-10-20 | [CORS — Why Your Browser Blocks Your Own API Call](logs/2026-10-20.md) |
 | 2026-10-21 | [Dependency Caching in CI — stop re-downloading the world](logs/2026-10-21.md) |
+| 2026-10-22 | [CAP Theorem — You Can't Have All Three](logs/2026-10-22.md) |
 
 ## 🤝 Contributing
 
