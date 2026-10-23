@@ -38,6 +38,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-10-20 | [CORS — Why Your Browser Blocks Your Own API Call](logs/2026-10-20.md) |
 | 2026-10-21 | [Dependency Caching in CI — stop re-downloading the world](logs/2026-10-21.md) |
 | 2026-10-22 | [CAP Theorem — You Can't Have All Three](logs/2026-10-22.md) |
+| 2026-10-23 | [Feature Flags — ship code without shipping risk](logs/2026-10-23.md) |
 
 ## 🤝 Contributing
 
