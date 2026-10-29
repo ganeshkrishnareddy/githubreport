@@ -41,6 +41,11 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-10-23 | [Feature Flags — ship code without shipping risk](logs/2026-10-23.md) |
 | 2026-10-24 | [ACID Transactions — the four promises your database keeps](logs/2026-10-24.md) |
 
+| 2026-10-25 | [Database Indexes — the shortcut that saves full-table scans](logs/2026-10-25.md) |
+| 2026-10-26 | [Semantic Versioning — read the version number like a contract](logs/2026-10-26.md) |
+| 2026-10-27 | [Debounce vs Throttle — two ways to tame rapid events](logs/2026-10-27.md) |
+| 2026-10-28 | [Git Worktrees — one repo, many working copies](logs/2026-10-28.md) |
+| 2026-10-29 | [OAuth 2.0 — let apps act for you, without handing over your password](logs/2026-10-29.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
