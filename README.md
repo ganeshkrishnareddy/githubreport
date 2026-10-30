@@ -46,6 +46,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-10-27 | [Debounce vs Throttle — two ways to tame rapid events](logs/2026-10-27.md) |
 | 2026-10-28 | [Git Worktrees — one repo, many working copies](logs/2026-10-28.md) |
 | 2026-10-29 | [OAuth 2.0 — let apps act for you, without handing over your password](logs/2026-10-29.md) |
+| 2026-10-30 | [Exponential Backoff — retrying without hammering a struggling service](logs/2026-10-30.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
