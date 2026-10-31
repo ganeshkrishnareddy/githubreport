@@ -47,6 +47,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-10-28 | [Git Worktrees — one repo, many working copies](logs/2026-10-28.md) |
 | 2026-10-29 | [OAuth 2.0 — let apps act for you, without handing over your password](logs/2026-10-29.md) |
 | 2026-10-30 | [Exponential Backoff — retrying without hammering a struggling service](logs/2026-10-30.md) |
+| 2026-10-31 | [Feature Flags — ship code without releasing the feature](logs/2026-10-31.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
