@@ -49,6 +49,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-10-30 | [Exponential Backoff — retrying without hammering a struggling service](logs/2026-10-30.md) |
 | 2026-10-31 | [Feature Flags — ship code without releasing the feature](logs/2026-10-31.md) |
 | 2026-11-01 | [JSON Web Tokens (JWT) — a signed, self-contained pass for APIs](logs/2026-11-01.md) |
+| 2026-11-04 | [Webhooks — let events come to you](logs/2026-11-04.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
