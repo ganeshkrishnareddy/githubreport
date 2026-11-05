@@ -17,7 +17,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-09-29 | [MCP — the USB-C port for AI tools](logs/2026-09-29.md) |
 | 2026-09-30 | [Supply-Chain Attacks — when the locksmith is compromised](logs/2026-09-30.md) |
 | 2026-10-01 | [WebAssembly: near-native speed for the web and beyond](logs/2026-10-01.md) |
-| 2026-10-02 | [Bloom Filters — the "probably yes" data structure](logs/2026-10-02.md) |
+| 2026-10-02 | [Bloom Filters — the \"probably yes\" data structure](logs/2026-10-02.md) |
 | 2026-10-03 | [CRDTs — the data structure that merges itself](logs/2026-10-03.md) |
 | 2026-10-04 | [Circuit Breakers — the fuse box for your services](logs/2026-10-04.md) |
 | 2026-10-05 | [The Event Loop — one thread, many jobs](logs/2026-10-05.md) |
@@ -31,7 +31,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-10-13 | [Webhooks — APIs in reverse](logs/2026-10-13.md) |
 | 2026-10-14 | [Conventional Commits — a grammar for your git history](logs/2026-10-14.md) |
 | 2026-10-15 | [GitOps — let Git do the deploying](logs/2026-10-15.md) |
-| 2026-10-16 | [Bloom Filters — the data structure that says "probably"](logs/2026-10-16.md) |
+| 2026-10-16 | [Bloom Filters — the data structure that says \"probably\"](logs/2026-10-16.md) |
 | 2026-10-17 | [Consistent Hashing — sharding without the shuffle](logs/2026-10-17.md) |
 | 2026-10-18 | [Backpressure — when consumers push back](logs/2026-10-18.md) |
 | 2026-10-19 | [LSM Trees — Why Write-Heavy Databases Are So Fast](logs/2026-10-19.md) |
@@ -50,6 +50,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-10-31 | [Feature Flags — ship code without releasing the feature](logs/2026-10-31.md) |
 | 2026-11-01 | [JSON Web Tokens (JWT) — a signed, self-contained pass for APIs](logs/2026-11-01.md) |
 | 2026-11-04 | [Secrets Management — keep credentials out of your code](logs/2026-11-04.md) |
+| 2026-11-05 | [Caching Strategies — trade a little memory for a lot of speed](logs/2026-11-05.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
