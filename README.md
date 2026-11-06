@@ -51,6 +51,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-11-01 | [JSON Web Tokens (JWT) — a signed, self-contained pass for APIs](logs/2026-11-01.md) |
 | 2026-11-04 | [Secrets Management — keep credentials out of your code](logs/2026-11-04.md) |
 | 2026-11-05 | [Caching Strategies — trade a little memory for a lot of speed](logs/2026-11-05.md) |
+| 2026-11-06 | [Observability — logs, metrics, and traces](logs/2026-11-06.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
