@@ -53,6 +53,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-11-05 | [Caching Strategies — trade a little memory for a lot of speed](logs/2026-11-05.md) |
 | 2026-11-06 | [Observability — logs, metrics, and traces](logs/2026-11-06.md) |
 | 2026-11-07 | [Message Queues — let services talk without waiting for each other](logs/2026-11-07.md) |
+| 2026-11-08 | [Content Delivery Networks (CDNs) — put your site's files closer to your users](logs/2026-11-08.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
@@ -60,3 +61,4 @@ Found a mistake or want to suggest a topic? Open an issue or a pull request — 
 ---
 
 ⭐ Star this repo if you learn something new here!
+
