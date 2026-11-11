@@ -56,6 +56,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-11-08 | [Content Delivery Networks (CDNs) — put your site's files closer to your users](logs/2026-11-08.md) |
 | 2026-11-09 | [WebSockets — a two-way street for real-time apps](logs/2026-11-09.md) |
 | 2026-11-10 | [Git Rebase vs Merge — keep your history clean](logs/2026-11-10.md) |
+| 2026-11-11 | [Rate Limiting — put a speed limit on your API](logs/2026-11-11.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
