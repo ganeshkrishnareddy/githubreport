@@ -59,6 +59,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-11-11 | [Rate Limiting — put a speed limit on your API](logs/2026-11-11.md) |
 | 2026-11-12 | [Load Balancing — spread the traffic, stay up](logs/2026-11-12.md) |
 | 2026-11-13 | [CORS — why the browser blocks your cross-origin fetch](logs/2026-11-13.md) |
+| 2026-11-14 | [DNS — how the internet finds your server](logs/2026-11-14.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
