@@ -61,6 +61,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-11-13 | [CORS — why the browser blocks your cross-origin fetch](logs/2026-11-13.md) |
 | 2026-11-14 | [DNS — how the internet finds your server](logs/2026-11-14.md) |
 | 2026-11-15 | [SQL Injection — when user input becomes code](logs/2026-11-15.md) |
+| 2026-11-18 | [Cursor Pagination — the bookmark that never loses your place](logs/2026-11-18.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
