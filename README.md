@@ -63,6 +63,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-11-15 | [SQL Injection — when user input becomes code](logs/2026-11-15.md) |
 | 2026-11-18 | [Cursor Pagination — the bookmark that never loses your place](logs/2026-11-18.md) |
 | 2026-11-19 | [Blue-Green Deployments — ship the new version without the downtime](logs/2026-11-19.md) |
+| 2026-11-20 | [Vector Embeddings — how search understands meaning](logs/2026-11-20.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
