@@ -17,7 +17,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-09-29 | [MCP — the USB-C port for AI tools](logs/2026-09-29.md) |
 | 2026-09-30 | [Supply-Chain Attacks — when the locksmith is compromised](logs/2026-09-30.md) |
 | 2026-10-01 | [WebAssembly: near-native speed for the web and beyond](logs/2026-10-01.md) |
-| 2026-10-02 | [Bloom Filters — the \"probably yes\" data structure](logs/2026-10-02.md) |
+| 2026-10-02 | [Bloom Filters — the "probably yes" data structure](logs/2026-10-02.md) |
 | 2026-10-03 | [CRDTs — the data structure that merges itself](logs/2026-10-03.md) |
 | 2026-10-04 | [Circuit Breakers — the fuse box for your services](logs/2026-10-04.md) |
 | 2026-10-05 | [The Event Loop — one thread, many jobs](logs/2026-10-05.md) |
@@ -31,7 +31,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-10-13 | [Webhooks — APIs in reverse](logs/2026-10-13.md) |
 | 2026-10-14 | [Conventional Commits — a grammar for your git history](logs/2026-10-14.md) |
 | 2026-10-15 | [GitOps — let Git do the deploying](logs/2026-10-15.md) |
-| 2026-10-16 | [Bloom Filters — the data structure that says \"probably\"](logs/2026-10-16.md) |
+| 2026-10-16 | [Bloom Filters — the data structure that says "probably"](logs/2026-10-16.md) |
 | 2026-10-17 | [Consistent Hashing — sharding without the shuffle](logs/2026-10-17.md) |
 | 2026-10-18 | [Backpressure — when consumers push back](logs/2026-10-18.md) |
 | 2026-10-19 | [LSM Trees — Why Write-Heavy Databases Are So Fast](logs/2026-10-19.md) |
@@ -64,6 +64,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-11-18 | [Cursor Pagination — the bookmark that never loses your place](logs/2026-11-18.md) |
 | 2026-11-19 | [Blue-Green Deployments — ship the new version without the downtime](logs/2026-11-19.md) |
 | 2026-11-20 | [Vector Embeddings — how search understands meaning](logs/2026-11-20.md) |
+| 2026-11-22 | [Passkeys — passwordless auth with WebAuthn](logs/2026-11-22.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
