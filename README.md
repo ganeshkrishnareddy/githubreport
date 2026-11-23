@@ -65,6 +65,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-11-19 | [Blue-Green Deployments — ship the new version without the downtime](logs/2026-11-19.md) |
 | 2026-11-20 | [Vector Embeddings — how search understands meaning](logs/2026-11-20.md) |
 | 2026-11-22 | [Passkeys — passwordless auth with WebAuthn](logs/2026-11-22.md) |
+| 2026-11-23 | [Bloom Filters — a tiny data structure that answers 'maybe'](logs/2026-11-23.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
