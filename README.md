@@ -68,6 +68,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-11-23 | [Bloom Filters — a tiny data structure that answers 'maybe'](logs/2026-11-23.md) |
 | 2026-11-24 | [gRPC — call a function on another machine like it is local](logs/2026-11-24.md) |
 | 2026-11-25 | [HTTP/3 & QUIC — the web's faster, tougher transport](logs/2026-11-25.md) |
+| 2026-11-26 | [Contract Testing — catch breaking API changes before they reach production](logs/2026-11-26.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
