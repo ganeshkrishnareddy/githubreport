@@ -70,6 +70,7 @@ Every day, a new entry is added under `logs/` in the format `YYYY-MM-DD.md`. Eac
 | 2026-11-25 | [HTTP/3 & QUIC — the web's faster, tougher transport](logs/2026-11-25.md) |
 | 2026-11-26 | [Contract Testing — catch breaking API changes before they reach production](logs/2026-11-26.md) |
 | 2026-11-27 | [Event Sourcing — store what happened, not just what is](logs/2026-11-27.md) |
+| 2026-11-28 | [Connection Pooling — stop paying the handshake tax on every request](logs/2026-11-28.md) |
 ## 🤝 Contributing
 
 Found a mistake or want to suggest a topic? Open an issue or a pull request — all welcome.
